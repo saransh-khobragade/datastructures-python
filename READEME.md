@@ -1,4 +1,5 @@
-install python https://www.python.org/ftp/python/3.11.1/python-3.11.1-macos11.pkg
+## Install python 
+https://www.python.org/ftp/python/3.11.1/python-3.11.1-macos11.pkg
 
 python --version 
 Python 3.9.6
